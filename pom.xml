@@ -510,6 +510,7 @@
 				<groupId>org.apache.metamodel</groupId>
 				<artifactId>MetaModel-hbase</artifactId>
 				<version>${metamodel.version}</version>
+				<classifier>hadoop2</classifier>
 			</dependency>
 			<dependency>
 				<groupId>org.eobjects.metamodel-extras</groupId>
